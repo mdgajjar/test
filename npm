@@ -1,4 +1,4 @@
-#Sample from https://github.com/pmcdowell-okta/Simple-node-webserver
+
 setup:
    npm install http
 
